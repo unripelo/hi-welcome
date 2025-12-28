@@ -1,9 +1,12 @@
-import { useState } from "react";
 import "./App.css";
-import BirthdayCard from "./assets/components/BirthdayCard";
+import Portfolio from "./assets/components/Portfolio";
 
 function App() {
-  return <div className="app-container"></div>;
+  return (
+    <div className="app-container">
+      <Portfolio />
+    </div>
+  );
 }
 
 export default App;
