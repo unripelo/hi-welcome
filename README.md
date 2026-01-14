@@ -1,5 +1,4 @@
 # about hi-welcome
-making a site abput my whereabouts and shi 
+making a site about my whereabouts and shi 
 
-# note
-whatever this is
+
